@@ -24,7 +24,7 @@ It only provides the minimal details necessary to be able to kick off the Rust s
 
 Why do we want a Rust specification at all?
 
-There are many different kind of Rust users that would benefit from a Rust specification in their own way.
+There are many different kinds of Rust users that would benefit from a Rust specification in their own way.
 Things like the Rust Reference, the Unsafe Code Guidelines Project, the Rustonomicon, and so on,
 all exist to fulfill certain needs of Rust users.
 Unfortunately, their use is currently limited, because none of these are complete, entirely accurate, or normative.
@@ -118,7 +118,7 @@ More background information is available in [this blog post](https://blog.m-ou.s
 
 # Coordination and editing
 
-Writing, editing, and in general coordinating all that's necessary for the creation of a Rust specification is a large amount for work.
+Writing, editing, and in general coordinating all that's necessary for the creation of a Rust specification is a large amount of work.
 While there are many volunteers willing to work on specific parts of it,
 it's unlikely we'd end up with a complete, consistent, properly maintained specification if we rely entirely on volunteers.
 
